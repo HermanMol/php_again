@@ -1,0 +1,64 @@
+html {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	}
+body {
+	background-color: #D4D0C8;
+	color: navy;
+	margin: 2 2 2 2;
+	}
+table {
+	background-color: white;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+	}	  
+tbody {
+	overflow: auto; 
+	}	
+th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: silver;
+	background-color: navy;
+	}
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: black;
+	}
+td.null {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: black;
+	background-color: #FFFFCC;
+	vertical-align: top;
+	}
+textarea {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: navy;
+	}
+input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: navy;
+	}
+select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: navy;
+	}
+.showdata {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: black;
+	vertical-align: top;
+	}
+.tr0 {
+	background-color: white;
+	}
+.tr1 {
+	background-color: #DCDCDC;
+	}
